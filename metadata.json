@@ -1,0 +1,7 @@
+{
+  "name": "RadioCast AI",
+  "description": "A next-generation AI-powered radio tuner. Discover global stations, visualize audio, and let the AI DJ curate your vibe.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
